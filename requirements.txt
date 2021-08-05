@@ -1,0 +1,5 @@
+Flask==1.0.2
+google-cloud-datastore
+google-cloud-storage
+google-cloud-speech
+pillow==4.3.0
